@@ -1,0 +1,5 @@
+declare module 'vue2-dropzone'
+declare module 'vuejs-datepicker'
+declare module '@bachdgvn/vue-otp-input'
+declare module 'pdfjs-dist/build/pdf'
+declare module 'pdfjs-dist/build/pdf.worker.entry'

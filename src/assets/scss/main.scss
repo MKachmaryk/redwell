@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  @apply h-full;
+}
+
+.button {
+  @apply text-white text-base bg-button rounded-2xl px-8 py-2;
+}
+
+.auth-form {
+  width: 396px;
+}
